@@ -68,4 +68,4 @@
 * **Изходен код:** ['real_life_lcd_project/main.ino'](./real_life_lcd_project/main.ino)
 * **Схема (Снимка):**  
   ![LCD - снимка](./schematics/project-03.jpeg)
----
+--
